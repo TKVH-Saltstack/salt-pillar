@@ -1,4 +1,4 @@
-users:
+admins:
   - nef
   - kwak
   - khoa
