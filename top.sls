@@ -1,4 +1,4 @@
 base:
   '*':
-    - users
-    - tools
+    - usersvars
+    - toolsvars
